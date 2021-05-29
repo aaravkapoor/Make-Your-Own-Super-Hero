@@ -86,62 +86,35 @@ if(e.shiftKey && keyPressed == '77')
 		right();
 		console.log("right");
 	}
-	if(keyPressed == '87')
+	if(keyPressed == '70')
 	{
-		new_image("wall.jpg"); 
-		console.log("w");
+		new_image("ironman_face.png"); 
+		console.log("f");
 	}
-	if(keyPressed == '71')
+	if(keyPressed == '66')
 	{
-		new_image("ground.png"); 
-		console.log("g");
+		new_image("spiderman_body.png"); 
+		console.log("b");
 	}
 	if(keyPressed == '76')
 	{
-		new_image("light_green.png"); 
+		new_image("hulk_legs.png"); 
 		console.log("l");
-	}
-	if(keyPressed == '84')
-	{
-		new_image("trunk.jpg"); 
-		console.log("t");
 	}
 	if(keyPressed == '82')
 	{
-		new_image("roof.jpg"); 
+		new_image("thor_right_hand.png"); 
 		console.log("r");
 	}
-	if(keyPressed == '89')
+	if(keyPressed == '72')
 	{
-		new_image("yellow_wall.png"); 
-		console.log("y");
+		new_image("captain_america_left_hand.png"); 
+		console.log("h");
 	}
-	if(keyPressed == '68')
+    if(keyPressed == '79')
 	{
-		new_image("dark_green.png"); 
-		console.log("d");
-	}
-	if(keyPressed == '85')
-	{
-		new_image("unique.png"); 
-		console.log("u");
-	}
-	if(keyPressed == '67')
-	{
-		new_image("cloud.jpg"); 
-		console.log("c");
-	}
-
-	if(keyPressed == '81')
-	{
-		new_image("93cdda0af3c73488f7c3d31fc9fa85b7.jpg"); 
-		console.log("q");
-	}
-
-	if(keyPressed == '66')
-	{
-		new_image("e.jpg"); 
-		console.log("b");
+		new_image("Final_output.png"); 
+		console.log("o");
 	}
 	
 }
